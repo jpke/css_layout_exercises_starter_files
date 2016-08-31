@@ -16,6 +16,7 @@ p img {
 	width: 35%;
 	height: 35%;
 	margin-right: 10px;
+	margin-top: 10px;
 }
 
 .image2 {
@@ -23,4 +24,5 @@ p img {
 	width: 35%;
 	height: 35%;
 	margin-left: 10px;
+	margin-top: 10px;
 }
